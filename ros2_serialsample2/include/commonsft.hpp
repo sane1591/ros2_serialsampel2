@@ -1,0 +1,1 @@
+/home/sane/CppProj/inc/commonsft.hpp
